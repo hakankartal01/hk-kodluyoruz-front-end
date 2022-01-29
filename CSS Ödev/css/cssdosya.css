@@ -1,0 +1,43 @@
+h1 {
+    color:rgb(240, 92, 47);
+    font-family: 'Comforter', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 45px;
+    text-align:center;
+   }
+
+   ul {
+        
+
+        list-style-type: none;
+    
+        margin: 0;
+    
+        padding: 0;
+    
+        overflow: hidden;
+      }
+
+      li {
+        float: left;
+        
+    }
+    
+    li a {
+        display: block;
+    
+        padding:12px 14px;
+
+    }
+
+    h2 {
+        text-align: center;
+    }
+    body {
+        background-color:rgb(104, 104, 96);
+        font-family: 'Comforter', cursive;
+        font-family: 'Mochiy Pop P One', sans-serif;
+        font-family: 'Supermercado One', cursive;
+        
+    }
